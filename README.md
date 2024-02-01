@@ -4,15 +4,7 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-Este projeto é um conversor de temperatura que permite converter valores entre Celsius (°C), Fahrenheit (°F) e Kelvin (K). Aqui estão as principais funcionalidades implementadas:
-
-1. Inserir Temperatura:
-   - Digite a temperatura que deseja converter no campo "Digite a temperatura".
-   - Selecione a unidade de temperatura de origem (Celsius, Fahrenheit ou Kelvin) no menu suspenso.
-
-2. Converter:
-   - Clique no botão "CONVERTER" para realizar a conversão da temperatura inserida.
-   - O resultado da conversão será exibido abaixo do botão, mostrando os valores convertidos para as outras duas unidades de temperatura.
+Este projeto é um conversor de temperatura que permite converter valores entre Celsius (°C), Fahrenheit (°F) e Kelvin (K). 
 
 ## COMO USAR?
 ### BAIXANDO O PROJETO:
