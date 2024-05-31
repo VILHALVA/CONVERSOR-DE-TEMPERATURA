@@ -29,5 +29,3 @@ Este projeto consiste em um conversor de temperatura que permite aos usuários c
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
